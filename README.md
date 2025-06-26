@@ -1,3 +1,3 @@
 Abhiraj Sharma
 <br>
-Clone of Amazon frontend
+Clone of frontend of Amazon.com
