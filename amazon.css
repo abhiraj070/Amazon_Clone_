@@ -31,7 +31,7 @@ body{
     margin-top: 4px;
     width: 110px;
     height: 48px;
-    background-image: url(logo.png);
+    background-image: url(images/logo.png);
     background-size: cover;
     margin-left: 5px;
 } 
@@ -101,7 +101,7 @@ button{
 #lang-logo{
     width:22px;
     height: 16px;
-    background-image: url(flag.png);
+    background-image: url(images/flag.png);
     background-size: cover;
 }
 
@@ -222,7 +222,7 @@ button{
 
 #add1{
     height:500px;
-    background-image: url(add1.jpg);
+    background-image: url(images/add1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-right: 10px;
@@ -280,28 +280,30 @@ button{
 
 #addimg1{
     width: 300px;
+    background-image: url(images/addimg.jpg);
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg.jpg);
+    margin-bottom: 30px;
     background-size: cover;
 }
 #addimg2{
-    width: 200px;
+    width: 300px;
     height: 300px;
-    margin-left: 80px;
+    margin-left: 23px;
     margin-top: 15px;
-    background-image: url(addimg2.jpg);
-    background-size: contain;
+    margin-bottom: 30px;
+    background-image: url(images/addimg2.png);
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 #addimg3{
     width: 300px;
-    height: 300px;
+    height: 320px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg3.2.jpg);
+    background-image: url(images/addimg3.png);
     background-size: cover;
 }
 #addimg4{
@@ -309,7 +311,8 @@ button{
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg4.2.webp);
+    margin-bottom: 30px;
+    background-image: url(images/addimg4.png);
     background-size: cover;
 }
 #addimg5{
@@ -317,7 +320,8 @@ button{
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg5.2.jpg);
+    margin-bottom: 30px;
+    background-image: url(images/addimg5.png);
     background-size: cover;
 }
 #addimg6{
@@ -325,7 +329,8 @@ button{
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg6.2.jpg);
+    margin-bottom: 30px;
+    background-image: url(images/addimg6.png);
     background-size: cover;
 }
 #addimg7{
@@ -333,7 +338,8 @@ button{
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg7.2.webp);
+    margin-bottom: 30px;
+    background-image: url(images/addimg7.2.webp);
     background-size: cover;
 }
 #addimg8{
@@ -341,14 +347,15 @@ button{
     height: 300px;
     margin-left: 25px;
     margin-top: 15px;
-    background-image: url(addimg8.2.webp);
+    margin-bottom: 30px;
+    background-image: url(images/addimg8.png);
     background-size: cover;
 }
 .addtext2{
     color:rgb(32, 74, 163);
     font-size: 13px;
     margin-left: 25px;
-    margin-top: 25px;
+    margin-top: 10px;
 }
 
 #sign-in2{
